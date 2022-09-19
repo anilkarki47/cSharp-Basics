@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\bin\Debug\net6.0\cSharp-Basics.exe
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\bin\Debug\net6.0\cSharp-Basics.deps.json
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\bin\Debug\net6.0\cSharp-Basics.runtimeconfig.json
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\bin\Debug\net6.0\cSharp-Basics.dll
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\bin\Debug\net6.0\cSharp-Basics.pdb
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\obj\Debug\net6.0\cSharp-Basics.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\obj\Debug\net6.0\cSharp-Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\obj\Debug\net6.0\cSharp-Basics.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\obj\Debug\net6.0\cSharp-Basics.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\obj\Debug\net6.0\cSharp-Basics.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\obj\Debug\net6.0\cSharp-Basics.dll
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\obj\Debug\net6.0\refint\cSharp-Basics.dll
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\obj\Debug\net6.0\cSharp-Basics.pdb
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\obj\Debug\net6.0\cSharp-Basics.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\3RD_YEAR\C#\cSharp-Basics\obj\Debug\net6.0\ref\cSharp-Basics.dll
