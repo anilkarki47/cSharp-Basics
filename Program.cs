@@ -92,6 +92,37 @@
             Console.WriteLine($"     {houseNumber}");
             Console.WriteLine($"********************");
 
+// Write a program to display student information. Accept Student’s name, Roll no, Age,
+// class, and university name and display it on console.
+
+            string studentName;
+            int rollNumber;
+            int age;
+            string studentClass;
+            string university;
+
+            Console.Write("Input a student name: ");
+            studentName = Convert.ToString(Console.ReadLine());
+
+            Console.Write("Input student roll number: ");
+            rollNumber = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Input student age: ");
+            age = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Input student class: ");
+            studentClass = Convert.ToString(Console.ReadLine());
+
+            Console.Write("Input student university: ");
+            university = Convert.ToString(Console.ReadLine());
+
+            Console.WriteLine();
+            
+            Console.WriteLine($"{studentName} having age {age} is a student of the {university}, studing {studentClass}. His roll number is {rollNumber}.");
+
+
+
+
 
 
             Console.ReadKey();
