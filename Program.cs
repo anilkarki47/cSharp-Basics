@@ -1,7 +1,7 @@
 ﻿namespace Assignment_w1
 {
     class Program
-    {
+    {   
         static void Main(string[] args)
         {
             Console.Title = "Assignment_w1";
@@ -120,12 +120,43 @@
             
             Console.WriteLine($"{studentName} having age {age} is a student of the {university}, studing {studentClass}. His roll number is {rollNumber}.");
 
+// 4. WAP to convert Centigrade to Fahrenheit and vice versa.
 
+            double c;
+            double f;
+            int i=0;
+            int check;
 
+            while (i == 0) {
+                Console.WriteLine("1. Convert Celsius to Fahrenheit.");
+                Console.WriteLine("2. Convert Fahrenheit to Celsius.");
+                // Console.WriteLine("3. Press any key to exit");
+                Console.Write("Enter your choice: ");
+                check = Convert.ToInt32(Console.ReadLine());
 
+                if (check == 1) {
+                    Console.WriteLine("Enter celcius temperature: ");
+                    c = Convert.ToDouble(Console.ReadLine());
+ 
+                    Console.WriteLine();
+
+                    Console.WriteLine($"The fahrenheit temperature is {(c*9/5)+32}");
+                }else if (check == 2) {
+                    Console.WriteLine("Enter fahrenheit temperature: ");
+                    f = Convert.ToDouble(Console.ReadLine());
+
+                    Console.WriteLine();
+
+                    Console.WriteLine($"The celsius temperature is {(f-32)*5/9}");
+                }else{
+                    Console.WriteLine("Incorrect choice! ");
+                }
+            } 
 
 
             Console.ReadKey();
         }
     }
+    
+        
 }
