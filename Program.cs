@@ -58,6 +58,41 @@
             double average = addition/3;
             Console.WriteLine("Average of the three number is " + average +".");
 
+// 2. Write a program to display user’s complete mailing address. Accept user’s name, city,
+// street, pin and house no. and store it in a variable and display it.
+
+            string userName;
+            string userCity;
+            string userStreet;
+            int userPin;
+            int houseNumber;
+
+            Console.Write("Input your name: ");
+            userName = Convert.ToString(Console.ReadLine());
+
+            Console.Write("Input your City: ");
+            userCity = Convert.ToString(Console.ReadLine());
+
+            Console.Write("Input your Street: ");
+            userStreet = Convert.ToString(Console.ReadLine());
+
+            Console.Write("Input your Pin: ");
+            userPin = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Input your house number: ");
+            houseNumber = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine();
+
+            Console.WriteLine($"Hello {userName}, your mailling address is shown below. ");
+            Console.WriteLine($"********************");
+            Console.WriteLine($"     {userName}");
+            Console.WriteLine($"     {userStreet}");
+            Console.WriteLine($"     {userCity},{userPin}");
+            Console.WriteLine($"     {houseNumber}");
+            Console.WriteLine($"********************");
+
+
 
             Console.ReadKey();
         }
