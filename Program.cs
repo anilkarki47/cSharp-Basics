@@ -130,7 +130,6 @@
             while (i == 0) {
                 Console.WriteLine("1. Convert Celsius to Fahrenheit.");
                 Console.WriteLine("2. Convert Fahrenheit to Celsius.");
-                // Console.WriteLine("3. Press any key to exit");
                 Console.Write("Enter your choice: ");
                 check = Convert.ToInt32(Console.ReadLine());
 
@@ -152,7 +151,6 @@
                     Console.WriteLine("Incorrect choice! ");
                 }
             } 
-
 
             Console.ReadKey();
         }
